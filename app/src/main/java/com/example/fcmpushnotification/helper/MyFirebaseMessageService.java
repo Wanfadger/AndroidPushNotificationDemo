@@ -1,4 +1,4 @@
-package com.example.fcmpushnotification;
+package com.example.fcmpushnotification.helper;
 
 import android.app.Activity;
 import android.util.Log;
